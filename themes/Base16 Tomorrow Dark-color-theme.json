@@ -132,6 +132,7 @@
 			"scope": [
 				"meta.function-call",
 				"meta.require",
+				"variable.language.super",
 				"keyword.other.special-method"
 			],
 			"settings": {
