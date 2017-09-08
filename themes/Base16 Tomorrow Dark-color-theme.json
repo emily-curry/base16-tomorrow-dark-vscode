@@ -14,7 +14,10 @@
 		"editorGroup.background": "#161719",
 		"editorGroupHeader.tabsBackground": "#161719",
 		"tab.activeBackground": "#1d1f21",
-		"tab.inactiveBackground": "#161719"
+		"tab.inactiveBackground": "#161719",
+		"editorGutter.modifiedBackground": "#de935f",
+		"editorGutter.addedBackground": "#b5bd68",
+		"editorGutter.deletedBackground": "#cc6666"
 	},
 	"tokenColors": [
 		{
