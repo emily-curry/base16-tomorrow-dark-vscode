@@ -51,7 +51,8 @@
 				"punctuation.definition.array",
 				"punctuation.definition.block",
 				"punctuation.separator",
-				"punctuation.accessor"
+				"punctuation.accessor",
+				"meta.template.expression"
 			],
 			"settings": {
 				"foreground": "#c5c8c6"
