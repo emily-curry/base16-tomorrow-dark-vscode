@@ -17,7 +17,8 @@
 		"tab.inactiveBackground": "#161719",
 		"editorGutter.modifiedBackground": "#de935f",
 		"editorGutter.addedBackground": "#b5bd68",
-		"editorGutter.deletedBackground": "#cc6666"
+		"editorGutter.deletedBackground": "#cc6666",
+		"editorIndentGuide.background": "#282a2e"
 	},
 	"tokenColors": [
 		{
