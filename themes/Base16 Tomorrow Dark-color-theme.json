@@ -6,7 +6,15 @@
 		"editor.selectionBackground": "#373b41",
 		"editor.lineHighlightBackground": "#282a2e",
 		"editorCursor.foreground": "#c5c8c6",
-		"editorWhitespace.foreground": "#62646666"
+		"editorWhitespace.foreground": "#626466",
+		"sideBar.background": "#161719",
+		"statusBar.foreground": "#c5c8c6",
+		"activityBar.background": "#161719",
+		"statusBar.background": "#161719",
+		"editorGroup.background": "#161719",
+		"editorGroupHeader.tabsBackground": "#161719",
+		"tab.activeBackground": "#1d1f21",
+		"tab.inactiveBackground": "#161719"
 	},
 	"tokenColors": [
 		{
