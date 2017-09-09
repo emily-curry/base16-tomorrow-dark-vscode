@@ -18,7 +18,9 @@
 		"editorGutter.modifiedBackground": "#de935f",
 		"editorGutter.addedBackground": "#b5bd68",
 		"editorGutter.deletedBackground": "#cc6666",
-		"editorIndentGuide.background": "#282a2e"
+		"editorIndentGuide.background": "#282a2e",
+		"editorError.foreground": "#d13b2e",
+		"editorWarning.foreground": "#ad7c0b"
 	},
 	"tokenColors": [
 		{
