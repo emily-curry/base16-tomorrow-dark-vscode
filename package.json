@@ -2,7 +2,7 @@
     "name": "base16-tomorrow-dark-vscode",
     "displayName": "Base16 Tomorrow Dark+",
     "description": "A base16 color theme styled to look like Atom's base16-tomorrow-dark-theme",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "Shurelia",
     "author": {
         "name": "Shurelia",
