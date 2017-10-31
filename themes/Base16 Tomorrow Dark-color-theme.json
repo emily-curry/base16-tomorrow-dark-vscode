@@ -104,6 +104,16 @@
 			}
 		},
 		{
+			"name": "Property Names",
+			"scope": [
+				"support.type.property-name",
+				"meta.object-literal.key"
+			],
+			"settings": {
+				"foreground": "#cc6666"
+			}
+		},
+		{
 			"name": "Classes",
 			"scope": [
 				"support.class",
@@ -175,13 +185,6 @@
 				"constant.other.symbol",
 				"entity.other.inherited-class"
 			],
-			"settings": {
-				"foreground": "#b5bd68"
-			}
-		},
-		{
-			"name": "Object Key",
-			"scope": "meta.object-literal.key",
 			"settings": {
 				"foreground": "#b5bd68"
 			}
