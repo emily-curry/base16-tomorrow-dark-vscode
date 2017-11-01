@@ -109,15 +109,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
-				"support.variable"
-			],
-			"settings": {
-				"foreground": "#cc6666"
-			}
-		},
-		{
-			"name": "Property Names",
-			"scope": [
+				"support.variable",
 				"support.type.property-name"
 			],
 			"settings": {
@@ -125,7 +117,7 @@
 			}
 		},
 		{
-			"name": "Object Literal Key",
+			"name": "Object Property Names",
 			"scope": [
 				"meta.object-literal.key"
 			],
@@ -159,8 +151,11 @@
 			}
 		},
 		{
-			"name": "Primitive Type",
-			"scope": "support.type.primitive",
+			"name": "Primitive/Builtin Type",
+			"scope": [
+				"support.type.primitive",
+				"support.type.builtin"
+			],
 			"settings": {
 				"foreground": "#c5c8c6"
 			}
