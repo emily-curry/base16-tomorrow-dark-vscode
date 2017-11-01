@@ -20,7 +20,8 @@
 		"editorGutter.deletedBackground": "#cc6666",
 		"editorIndentGuide.background": "#282a2e",
 		"editorError.foreground": "#d13b2e",
-		"editorWarning.foreground": "#ad7c0b"
+		"editorWarning.foreground": "#ad7c0b",
+		"editorLink.activeForeground": "#81a2be"
 	},
 	"tokenColors": [
 		{
