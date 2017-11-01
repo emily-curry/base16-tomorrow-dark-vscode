@@ -29,7 +29,12 @@
 		"editorIndentGuide.background": "#282a2e",
 		"editorError.foreground": "#d13b2e",
 		"editorWarning.foreground": "#ad7c0b",
-		"editorLink.activeForeground": "#81a2be"
+		"editorLink.activeForeground": "#81a2be",
+		"git.modifiedForeground": "#e2c08d",
+		"git.untrackedForeground": "#73c990",
+		"git.ignoredForeground": "#696d71",
+		"git.conflictForeground": "#6494ed",
+		"git.deletedForeground": "#ff6347"
 	},
 	"tokenColors": [
 		{
