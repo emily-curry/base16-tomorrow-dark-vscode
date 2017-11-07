@@ -251,8 +251,7 @@
 		{
 			"name": "Attribute IDs",
 			"scope": [
-				"entity.other.attribute-name.id",
-				"punctuation.definition.entity"
+				"entity.other.attribute-name.id"
 			],
 			"settings": {
 				"foreground": "#81a2be"
@@ -275,6 +274,20 @@
 		{
 			"name": "Values",
 			"scope": "none",
+			"settings": {
+				"foreground": "#de935f"
+			}
+		},
+		{
+			"name": "CSS Property Name",
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#c5c8c6"
+			}
+		},
+		{
+			"name": "CSS Property Value",
+			"scope": "support.constant.property-value.css",
 			"settings": {
 				"foreground": "#de935f"
 			}
