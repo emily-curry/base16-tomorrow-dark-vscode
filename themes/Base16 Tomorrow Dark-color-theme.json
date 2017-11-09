@@ -300,7 +300,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#81a2be"
+				"foreground": "#cc6666"
 			}
 		},
 		{
@@ -312,50 +312,64 @@
 		},
 		{
 			"name": "Bold",
-			"scope": [
-				"markup.bold",
-				"punctuation.definition.bold"
-			],
+			"scope": "punctuation.definition.bold",
 			"settings": {
 				"fontStyle": "bold"
 			}
 		},
 		{
+			"name": "Markup Bold",
+			"scope": "markup.bold",
+			"settings": {
+				"foreground": "#de935f",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"name": "Italic",
-			"scope": [
-				"markup.italic",
-				"punctuation.definition.italic"
-			],
+			"scope": "punctuation.definition.italic",
 			"settings": {
 				"fontStyle": "italic"
 			}
 		},
 		{
+			"name": "Markup Italic",
+			"scope": "markup.italic",
+			"settings": {
+				"foreground": "#b294bb",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Code",
-			"scope": "markup.raw.inline",
+			"scope": [
+				"markup.inline.raw",
+				"markup.fenced_code.block"
+			],
 			"settings": {
 				"foreground": "#b5bd68"
 			}
 		},
 		{
-			"name": "Link Text",
+			"name": "Link",
 			"scope": [
+				"meta.link",
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#cc6666"
+				"foreground": "#81a2be"
 			}
 		},
 		{
-			"name": "Link Url",
-			"scope": "meta.link",
+			"name": "Link",
+			"scope": "string.other.link.title",
 			"settings": {
-				"foreground": "#de935f"
+				"foreground": "#8abeb7"
 			}
 		},
 		{
 			"name": "Lists",
-			"scope": "markup.list",
+			"scope": "beginning.punctuation.definition.list",
 			"settings": {
 				"foreground": "#cc6666"
 			}
@@ -364,7 +378,7 @@
 			"name": "Quotes",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#de935f"
+				"foreground": "#969896"
 			}
 		},
 		{
