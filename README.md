@@ -4,7 +4,7 @@ A VSCode theme styled to look like Atom's [base16-tomorrow-dark-theme](https://g
 ![screenshot](./screenshot.png)
 
 ## Todo
-- Theme workbench (WIP, partially done)
-- Make markdown prettier
+- ~~Theme workbench~~
+- ~~Make markdown prettier~~
 
-If there's anything else that doesn't look quite right, please open an issue!
+If there's anything else that doesn't look quite right, please open an issue on GitHub!
