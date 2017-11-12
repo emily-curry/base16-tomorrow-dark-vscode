@@ -32,7 +32,7 @@
 		"editorLink.activeForeground": "#81a2be",
 		"gitDecoration.modifiedResourceForeground": "#e2c08d",
 		"gitDecoration.untrackedResourceForeground": "#73c990",
-		"gitDecoration.ignoredResourceForeground": "#ffffff",
+		"gitDecoration.ignoredResourceForeground": "#696d71",
 		"gitDecoration.conflictingResourceForeground": "#6494ed",
 		"gitDecoration.deletedResourceForeground": "#ff6347"
 	},
