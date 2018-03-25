@@ -75,7 +75,8 @@
         "punctuation.separator",
         "punctuation.accessor",
         "meta.template.expression",
-        "meta.array.literal"
+        "meta.array.literal",
+        "storage.type.function.arrow"
       ],
       "settings": {
         "foreground": "#c5c8c6"
@@ -130,7 +131,7 @@
     },
     {
       "name": "Named Type",
-      "scope": ["entity.name.type", "storage.type"],
+      "scope": ["entity.name.type", "storage.type.cs"],
       "settings": {
         "foreground": "#f0c674"
       }
