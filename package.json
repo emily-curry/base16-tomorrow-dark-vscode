@@ -1,27 +1,33 @@
 {
   "name": "base16-tomorrow-dark-vscode",
   "displayName": "Base16 Tomorrow Dark+",
-  "description":
-    "A base16 color theme styled to look like Atom's base16-tomorrow-dark-theme",
-  "version": "0.0.16",
+  "description": "A base16 color theme styled to look like Atom's base16-tomorrow-dark-theme",
+  "version": "0.0.17",
   "publisher": "Shurelia",
   "author": {
-    "name": "Shurelia",
-    "email": "shurelia@ar-toneli.co"
+    "name": "Emily Curry",
+    "email": "emily@curry.sh"
   },
   "engines": {
     "vscode": "^1.16.0"
   },
-  "keywords": ["base16", "tomorrow", "theme", "dark"],
+  "keywords": [
+    "base16",
+    "tomorrow",
+    "theme",
+    "dark"
+  ],
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#1d1f21",
     "theme": "dark"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shurelia/base16-tomorrow-dark-vscode.git"
+    "url": "https://github.com/emily-curry/base16-tomorrow-dark-vscode.git"
   },
   "contributes": {
     "themes": [
