@@ -4,6 +4,12 @@ All notable changes to the "base16-tomorrow-night-dark-vscode" extension will be
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.18] - 04/25/20
+
+### Fixed
+
+- Improved contrast in quick input dialog
+
 ## [0.0.17] - 02/25/19
 
 ### Changed
