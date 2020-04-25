@@ -1,41 +1,46 @@
 {
-  "name": "base16-tomorrow-dark-vscode",
-  "displayName": "Base16 Tomorrow Dark+",
-  "description": "A base16 color theme styled to look like Atom's base16-tomorrow-dark-theme",
-  "version": "0.0.17",
-  "publisher": "Shurelia",
-  "author": {
-    "name": "Emily Curry",
-    "email": "emily@curry.sh"
-  },
-  "engines": {
-    "vscode": "^1.16.0"
-  },
-  "keywords": [
-    "base16",
-    "tomorrow",
-    "theme",
-    "dark"
-  ],
-  "icon": "icon.png",
-  "galleryBanner": {
-    "color": "#1d1f21",
-    "theme": "dark"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/emily-curry/base16-tomorrow-dark-vscode.git"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Base16 Tomorrow Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Base16 Tomorrow Dark-color-theme.json"
-      }
-    ]
-  }
+	"name": "base16-tomorrow-dark-vscode",
+	"displayName": "Base16 Tomorrow Dark+",
+	"description": "A base16 color theme styled to look like Atom's base16-tomorrow-dark-theme",
+	"version": "0.0.18",
+	"publisher": "emily-curry",
+	"author": {
+		"name": "Emily Curry",
+		"email": "emily@curry.sh"
+	},
+	"engines": {
+		"vscode": "^1.16.0"
+	},
+	"keywords": [
+		"base16",
+		"tomorrow",
+		"theme",
+		"dark"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#1d1f21",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/emily-curry/base16-tomorrow-dark-vscode.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Base16 Tomorrow Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Base16 Tomorrow Dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "e6e1d027-f8db-46e1-bb42-dc447b0c3b85",
+		"publisherDisplayName": "Emily Curry",
+		"publisherId": "f1123abd-cc34-4948-9e5e-282eda53b551"
+	}
 }
