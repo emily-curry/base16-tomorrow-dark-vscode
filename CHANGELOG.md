@@ -4,6 +4,12 @@ All notable changes to the "base16-tomorrow-night-dark-vscode" extension will be
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.19] - 07/05/23
+
+### Changed
+
+- Themed terminal colors ([#4](https://github.com/emily-curry/base16-tomorrow-dark-vscode/pull/4))
+
 ## [0.0.18] - 04/25/20
 
 ### Fixed
